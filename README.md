@@ -33,7 +33,7 @@ This API contains 7 endpoints. For more detailed information about the API and i
 ## 2. Entity-Relationship Diagram ↔️
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="ER-Diag" title="ER-Diag" src="./app/assets/diagrama_R0.png" width="800px">
+  <img alt="ER-Diag" title="ER-Diag" src="./app/assets/diagrama_R1.png" width="800px">
 </p>
 
 <a name="links"></a>
