@@ -3,11 +3,12 @@
 <h2>Contents</h2>
 
 - [1. About 💻](#1-about-)
-- [2. Application's links 🔗](#2-applications-links-)
-- [3. General Functionalities ⚙️](#3-general-functionalities-️)
-- [4. Technologies 🧰](#4-technologies-)
-  - [4.1 Requisites ☑️](#41-requisites-️)
-- [5. Terms of Use 📜](#5-terms-of-use-)
+- [2. Entity-Relationship Diagram ↔️](#2-entity-relationship-diagram-️)
+- [3. Application's links 🔗](#3-applications-links-)
+- [4. General Functionalities ⚙️](#4-general-functionalities-️)
+- [5. Technologies 🧰](#5-technologies-)
+  - [5.1 Requisites ☑️](#51-requisites-️)
+- [6. Terms of Use 📜](#6-terms-of-use-)
 
 <a name="about"></a>
 
@@ -17,16 +18,26 @@
 
 The user can create tasks and categories as well as update them and also delete. The user can retrieve the categories with their corresponding tasks.
 
+Once the tasks are created they are automatically classificated by importance according to the "Eisenhower Principle", that utilizes the principles of importance and urgency to organize priorities and workload. The classification is based on the importance and urgency values provided when the tasks are created or updated.
+
 This API contains 7 endpoints. For more detailed information about the API and its endpoints, please consult API Documentation in Application links section.
+
+<a name="er-diag"></a>
+
+## 2. Entity-Relationship Diagram ↔️
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="HungryTraveler" title="ER-Diag" src="./src/assets/diagrama_R0.png" width="400px">
+</p>
 
 <a name="links"></a>
 
-## 2. Application's links 🔗
+## 3. Application's links 🔗
 
 <!-- - <a name="API documentation" href="https://documenter.getpostman.com/view/19787362/UVksLDvG" target="_blank">API Documentation</a>
 - <a name="API deploy in Heroku" href="https://cookin-api-capstone.herokuapp.com/" target="_blank">API Deploy in Heroku</a> -->
 
-## 3. General Functionalities ⚙️
+## 4. General Functionalities ⚙️
 
 <!-- - [x] Once registered in Cookin' app and signed in, users can:
   - [x] update their name, gender or profile photo;
@@ -41,7 +52,7 @@ This API contains 7 endpoints. For more detailed information about the API and i
 
 <a name="technologies"></a>
 
-## 4. Technologies 🧰
+## 5. Technologies 🧰
 
 - <a name="python" href="https://docs.python.org/3/" target="_blank">Python</a>
 - <a name="flask" href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">Flask</a>
@@ -52,7 +63,7 @@ This API contains 7 endpoints. For more detailed information about the API and i
 
 <a name="requisites"></a>
 
-### 4.1 Requisites ☑️
+### 5.1 Requisites ☑️
 
 - Python above version 3.9.6;
 - Package manager <a name="pip" href="https://pip.pypa.io/en/stable/" target="_blank">PIP</a>;
@@ -60,7 +71,7 @@ This API contains 7 endpoints. For more detailed information about the API and i
 
 <a name="terms"></a>
 
-## 5. Terms of Use 📜
+## 6. Terms of Use 📜
 
 This is an Open Source project for educational and non-commercial purposes.
 
