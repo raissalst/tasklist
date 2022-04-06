@@ -27,7 +27,7 @@ This API contains 7 endpoints. For more detailed information about the API and i
 ## 2. Entity-Relationship Diagram ↔️
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="HungryTraveler" title="ER-Diag" src="./src/assets/diagrama_R0.png" width="400px">
+  <img alt="ER-Diag" title="ER-Diag" src="./app/assets/diagrama_R0.png" width="400px">
 </p>
 
 <a name="links"></a>
