@@ -18,7 +18,13 @@
 
 The user can create tasks and categories as well as update them and also delete. The user can retrieve the categories with their corresponding tasks.
 
-Once the tasks are created they are automatically classificated by importance according to the "Eisenhower Principle", that utilizes the principles of importance and urgency to organize priorities and workload. The classification is based on the importance and urgency values provided when the tasks are created or updated.
+Once the tasks are created they are automatically classificated by importance according to the "Eisenhower Principle", that utilizes the principles of importance and urgency to organize priorities and workload.
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Eisenhower" title="Eisenhower" src="./app/assets/eisenhower.png" width="500px">
+</p>
+
+The classification is based on the importance and urgency values provided when the tasks are created or updated.
 
 This API contains 7 endpoints. For more detailed information about the API and its endpoints, please consult API Documentation in Application links section.
 
