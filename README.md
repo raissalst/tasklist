@@ -40,21 +40,7 @@ This API contains 7 endpoints. For more detailed information about the API and i
 
 ## 3. Application's links 🔗
 
-<!-- - <a name="API documentation" href="https://documenter.getpostman.com/view/19787362/UVksLDvG" target="_blank">API Documentation</a>
-- <a name="API deploy in Heroku" href="https://cookin-api-capstone.herokuapp.com/" target="_blank">API Deploy in Heroku</a> -->
-
 ## 4. General Functionalities ⚙️
-
-<!-- - [x] Once registered in Cookin' app and signed in, users can:
-  - [x] update their name, gender or profile photo;
-  - [x] create new recipes of their own and keep them private;
-  - [x] update recipe's data, like title, ingredients, instructions, category, preparation time, difficulty, portion size and recipe image;
-  - [x] consult their own private recipes, shared recipes in Cookin' community and recipes added to favorites;
-  - [x] consult users of the Cookin' community info;
-  - [x] choose whether to share private recipes with the Cookin' community;
-  - [x] add recipes to favorites, their own recipes or shared recipes by other users from Cookin' community;
-  - [x] rate shared recipes from Cookin' community;
-  - [x] filter recipes by title, category, difficulty, preparation time and portion size; -->
 
 <a name="technologies"></a>
 
